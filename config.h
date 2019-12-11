@@ -83,7 +83,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 4;
 
 /* bg opacity */
-unsigned int alpha = 0xcc;
+float alpha = 0.9;
 
 /* Terminal colors */
 static const char *colorname[] = {
